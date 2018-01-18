@@ -1,0 +1,60 @@
+@media screen and (min-width: 481px) and (max-width: 1262px) {
+  .clear-me-phone {
+    margin-left: 10px;
+    margin-bottom: 100px;
+  }
+  .description-interactive-p {
+    float: left;
+  }
+  .big-box-title {
+    font-size: 2.5vw;
+    width: 33vw;
+    text-align: center;
+    margin-left: 10%;
+    border-bottom: 4px solid black;
+  }
+  .under-inner-h4 {
+    width: 20vw;
+    font-size: 1em;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.6);
+    color: rgba(0, 0, 0, 0.6);
+  }
+  .biggest-box-under-image {
+    width: 45vw;
+  }
+  #goals-right-box {
+    margin-top: 80px;
+    width: 45vw !important;
+    margin-left: 30px;
+    font-size: 1.3vw;
+  }
+  #goals-left-box {
+    margin-left: 30px;
+    width: 45vw !important;
+    font-size: 1.3vw;
+  }
+  .goals-h2 {
+    margin-top: -60px;
+    margin-left: 50px;
+    width: 20vw;
+  }
+  #achievements-box {
+    width: 41vw;
+    margin-left: 50px;
+  }
+  #explanations-box {
+    margin-left: -50px;
+  }
+  #my-picture {
+    width: auto;
+    height: 13vw;
+  }
+  .tall-div-ul {
+    position: absolute;
+    top: -220px;
+    right: 20px;
+    text-align: right;
+  }
+  .description-github {
+  }
+}
